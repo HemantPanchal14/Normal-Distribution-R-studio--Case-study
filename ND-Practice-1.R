@@ -1,17 +1,3 @@
-# Learning Normal Distribution
-
-#Normal distribution, also known as the Gaussian distribution, 
-#is a probability distribution that is symmetric about the mean, 
-#showing that data near the mean are more frequent in occurrence 
-#than data far from the mean. 
-#In graph form, normal distribution will appear as a bell curve.
-
-#where Mean,Median and Mode are in centre
-
-#To calculate Normal Dsitribution we need to have mean and SD value
-
-#FOr expl; we need to find out probability between score 300-600
-#we Know Mean score = 494, and SD = 100
 
 # in R we can not calculate probability halfway, it will give give probability from start
 
