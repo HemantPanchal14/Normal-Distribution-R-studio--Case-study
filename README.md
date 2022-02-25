@@ -1,4 +1,4 @@
-# Normal-Distribution-R-studio--Case-study
+# Normal-Distribution-R-studio--Example
 Learning Normal Distribution in R studio
 
 
